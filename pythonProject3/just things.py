@@ -1,0 +1,5 @@
+print("hi 'geetha'")
+print('hi geetha')
+print("hi geetha")
+print('hi "geetha"')
+print("hi geetha")
